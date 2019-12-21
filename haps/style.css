@@ -1,0 +1,128 @@
+* {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+body{
+	/* ); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background-color: ghostwhite;
+min-height: 100vh;
+max-height: 100vh;
+/* background-image: url(/background-blur-clean-clear-531880.jpg);
+background-size: cover;
+background-position: center -150px;
+background-blend-mode: color; */
+overflow: hidden;
+}
+
+.wrapper{
+	-webkit-box-shadow: 0px 5px 13px -4px #000000; 
+box-shadow: 0px 5px 13px -4px #000000;
+width: 500px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.logo{
+	margin-top: -70px;
+	height: 220px;
+}
+
+img{
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+
+	display: block;
+}
+
+section{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:ghostwhite;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	margin-top:15%;
+	border-radius: 5px 5px 0px 0px;
+}
+
+
+
+section.sec2{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:ghostwhite;
+	
+	padding-bottom: 10px;
+	margin-top: 0px;
+	border-radius: 0px 0px 5px 5px;
+}
+
+.heading {
+	font-family: Arial;
+	font-size: 2rem;
+	color: #202020;
+	font-family: 'Roboto', sans-serif;
+	line-height: 0px;
+}
+
+.heading2 {
+	font-family: Arial;
+	font-size: 1rem;
+	color: #202020;
+	font-family: 'Roboto', sans-serif;
+	font-weight: ;
+
+}
+
+.URL-input, .convert-button {
+	font-size:1.3em;
+	padding:5px 10px;
+}
+
+.URL-input {
+	border-radius:4px 0px 0px 4px;
+width: 400px;
+	
+	border:2px solid #EEEEEE;
+	
+	outline:none;
+	border-radius: 300px;
+	font-size: 1rem;
+	/* text-align: center; */
+	color: black;
+	text-align: left;
+}
+
+.URL-input:focus {
+	border:2px solid #0485ff;
+	color: #303030;
+}
+
+.convert-button:first-of-type{
+	margin: 5px;
+}
+
+.convert-button {
+	border:2px solid #0485ff;
+	background: #0485ff;
+	color:white;
+	transition: 0.15s;
+	
+	border-radius: 300px;
+	margin-top: 10px;
+	font-size: 1rem;
+	margin-top: 20px;
+	margin-bottom: 80px;
+}
+
+.convert-button:hover {
+	background: #016acc;
+	border-color: #016acc;
+}
+
+#mp3 {
+	
+}
+
