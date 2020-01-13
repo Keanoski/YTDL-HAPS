@@ -1,3 +1,3 @@
 # YTDL-HAPS
 
-example at: haps.keano.dk
+temporary example at: haps.keano.dk
